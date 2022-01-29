@@ -4,5 +4,5 @@ public abstract class User {
   nom="diallo"
   age = 10
   inde="idi"
-    System.out.println("les gars je vais m'absenter aujourd'hui j'ai rattrapage a faire demain je vais profiter pour reviser tout la journée");
+    System.out.println("rendez vous lundi a 10h");
 }
