@@ -1,0 +1,12 @@
+#logoTitle{
+    -fx-font-size: 30px;
+}
+
+#listProfTitle{
+	-fx-font-size: 20px;	
+}
+
+#h1{
+	-fx-font-size: 30px;
+	-fx-padding-bottom: 100px;
+}
